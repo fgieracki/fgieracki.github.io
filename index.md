@@ -33,6 +33,28 @@ Check out my [personal website!](https://fgieracki.com)
                           gggggg                                                                                                                                                                                          
 
 ```
+# Projekt "Kiedy laby"
+
+## Na czym polega nasz projekt ?
+
+Celem naszego projektu jest stworzenie aplikacji mobilnej służącej do wyświetlania planu zajęć dla studentów wydziału Elektrotechniki Automatyki Informatyki i Inżynierii Biomedycznej AGH. Aplikacja będzie dostępna na urządzeniach z systemem Android i iOS.
+
+Nasza aplikacja pozwoli wyświetlać plan zajęć w wygodny i przejrzysty sposób. Jej głównymi zaletami względem tradycyjnego planu zajęć na stronie wydziału są:
+* Szybki i łatwy dostęp do planu zajęć z poziomu telefonu
+* Podział na grupy dziekańskie i laboratoryjne (na stronie wydziału ta funkcja działała niepoprawnie)
+* Interfejs dopasowany do ekranu telefonu, zapewniający lepszą czytelność na urządzeniach mobilnych
+* Dodatkowe funkcje, które planujemy dodać w przyszłości
+
+![](app_screenshot.png)
+
+## Twórcy
+- [Mateusz Woźniak](https://matisiekpl.github.io/)
+- [Filip Gieracki](https://fgieracki.github.io/)
+- [Tomasz Kawiak](https://hevagog.github.io/)
+- [Przemysław Maresz](https://przemyslawmaresz.github.io/)
+
+
+
 <!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
