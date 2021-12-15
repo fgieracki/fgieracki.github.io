@@ -43,7 +43,7 @@ Nasza aplikacja pozwoli wyświetlać plan zajęć w wygodny i przejrzysty sposó
 * Szybki i łatwy dostęp do planu zajęć z poziomu telefonu
 * Podział na grupy dziekańskie i laboratoryjne (na stronie wydziału ta funkcja działała niepoprawnie)
 * Interfejs dopasowany do ekranu telefonu, zapewniający lepszą czytelność na urządzeniach mobilnych
-* Dodatkowe funkcje, które planujemy dodać w przyszłości
+* Ciągły rozwój aplikacji
 
 ![](app_screenshot.png)
 
